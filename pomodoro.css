@@ -1,0 +1,20 @@
+body  {
+  background-image: url("http://www.wildtextures.com/wp-content/uploads/2011/11/wildtextures-Dark-Grunge-Brick-Wall-Texture.jpg");
+  background-size: 100%;
+  background-attachment: fixed;
+  color: white;
+  font-family: fantasy;
+  text-align: center;
+}
+
+.clock {
+  padding-top: 10%;
+}
+
+h2  {
+  display: inline;
+}
+
+#start  {
+  margin: 10px;
+}
